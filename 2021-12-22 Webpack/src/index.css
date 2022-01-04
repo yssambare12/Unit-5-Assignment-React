@@ -43,10 +43,6 @@ body {
     background-color: rgb(143, 201, 143);
 }
 
-#btnClear:hover {
-    background-color: rgb(230, 64, 64);
-}
-
 .points {
     padding: 0px 20px;
     font-size: 16px;
