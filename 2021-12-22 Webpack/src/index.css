@@ -1,0 +1,62 @@
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+#mainBox {
+    border: 1px solid rgb(212, 212, 212);
+    height: 400px;
+    width: 600px;
+    margin: auto;
+    border-radius: 10px;
+    overflow: scroll;
+    overflow-x: hidden;
+}
+
+.heading {
+    text-align: center;
+    border-bottom: 1px solid rgb(212, 212, 212);
+    margin: 0px;
+    padding: 10px;
+    background-color: rgb(212, 212, 212);
+}
+
+.inputDiv {
+    margin: 20px auto;
+    width: 600px;
+}
+
+#inputBox {
+    width: 360px;
+    margin: auto;
+    height: 25px;
+    
+}
+
+.button {
+    height: 31px;
+    width: 110px;
+    border: none;
+    background-color: rgb(212, 212, 212);
+}
+
+.button:hover {
+    background-color: rgb(143, 201, 143);
+}
+
+#btnClear:hover {
+    background-color: rgb(230, 64, 64);
+}
+
+.points {
+    padding: 0px 20px;
+    font-size: 16px;
+}
+
+.imgSize {
+    width: 70px;
+}
+
+#logoDiv {
+    width: 70px;
+    margin: auto;
+}
