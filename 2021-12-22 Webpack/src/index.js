@@ -19,7 +19,6 @@ let count = 1;
 let img = document.createElement("img");
 img.src = logo;
 img.setAttribute("class", "imgSize")
-
 logoDiv.appendChild(img)
 
 function addNote() {
@@ -36,5 +35,5 @@ function addNote() {
 }
 
 function clearAll() {
-    Box.innerHTML = null;
+    Box.innerHTML = null
 }
