@@ -35,5 +35,5 @@ function addNote() {
 }
 
 function clearAll() {
-    Box.innerHTML = null
+    Box.innerHTML = null;
 }
