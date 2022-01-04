@@ -5,7 +5,7 @@ import logo from '../logo/Notes_Logo.png';
 
 const logoDiv = document.getElementById("logoDiv"); 
 
-const notesBox = document.getElementById("notesBox");
+const Box = document.getElementById("Box");
 
 const btn = document.getElementById("btn");
 const btnClear = document.getElementById("btnClear");
@@ -31,10 +31,10 @@ function addNote() {
     p.setAttribute("class", "points")
     count++;
 
-    notesBox.appendChild(p);
+    Box.appendChild(p);
 
 }
 
 function clearAll() {
-    notesBox.innerHTML = null;
+    Box.innerHTML = null;
 }
