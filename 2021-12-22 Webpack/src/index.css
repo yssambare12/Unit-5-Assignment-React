@@ -4,8 +4,8 @@ body {
 
 #mainBox {
     border: 1px solid rgb(212, 212, 212);
-    height: 400px;
-    width: 600px;
+    height: 401px;
+    width: 601px;
     margin: auto;
     border-radius: 10px;
     overflow: scroll;
