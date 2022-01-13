@@ -10,7 +10,7 @@ const SiderBar = styled.div`
   width: 100%;
   /* top: 0; */
   left: 0;
-  z-index: 999;
+  z-index: ;
   transition: 0.3s ease-in-out;
   display: flex;
   justify-content: center;
