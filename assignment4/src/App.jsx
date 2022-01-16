@@ -8,7 +8,7 @@ function App() {
      <h1>Product Store</h1>
      <div className='griding'>
      <Todo/>
-     
+     </div>
      
     </div>
     
